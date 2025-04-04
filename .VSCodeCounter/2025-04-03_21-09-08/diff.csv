@@ -1,0 +1,11 @@
+"filename", "language", "Batch", "Markdown", "Gradle", "Java Properties", "Java", "comment", "blank", "total"
+"/home/soup/Documents/Code/Java/Game/README.md", "Markdown", 0, -2, 0, 0, 0, 0, -1, -3
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$1.class", "Java", 0, 0, 0, 0, -10, 0, -1, -11
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App.class", "Java", 0, 0, 0, 0, -21, -5, 0, -26
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/Game.class", "Java", 0, 0, 0, 0, -26, 0, 0, -26
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/Player.class", "Java", 0, 0, 0, 0, -12, 0, 0, -12
+"/home/soup/Documents/Code/Java/Game/app/build.gradle", "Gradle", 0, 0, -19, 0, 0, -12, -9, -40
+"/home/soup/Documents/Code/Java/Game/gradle/wrapper/gradle-wrapper.properties", "Java Properties", 0, 0, 0, -7, 0, 0, -1, -8
+"/home/soup/Documents/Code/Java/Game/gradlew.bat", "Batch", -41, 0, 0, 0, 0, -32, -22, -95
+"/home/soup/Documents/Code/Java/Game/settings.gradle", "Gradle", 0, 0, -5, 0, 0, -7, -3, -15
+"Total", "-", -41, -2, -24, -7, -69, -56, -37, -236

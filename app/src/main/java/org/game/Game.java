@@ -8,6 +8,11 @@ import javax.swing.JPanel;
 import org.game.components.Player;
 
 /* NOTES
+ *
+ * - IMPORTANT
+ * # Please run './gradlew clean' to clear the temp files before pushing 
+ * - END
+ * 
  * 
  */
 
@@ -38,7 +43,6 @@ public class Game extends JPanel implements KeyListener {
     public void keyPressed(KeyEvent arg0) {
         int keyCode = arg0.getKeyCode();
         player.move(keyCode);
-        System.out.println(keyCode);
 
     }
 

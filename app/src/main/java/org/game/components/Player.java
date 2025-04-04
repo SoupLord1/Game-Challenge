@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
 public class Player {
     int size = 50;
     int[] positon = {1,2};
-    int speed = 20;
+    int speed = 50;
     
     public void move(int keyCode) {
 
