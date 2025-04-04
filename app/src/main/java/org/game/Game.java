@@ -1,11 +1,12 @@
 package org.game;
 
+import java.awt.BorderLayout;
 import java.awt.Graphics;
 import java.awt.Toolkit;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import javax.swing.JPanel;
-import org.game.components.Player;
+import org.game.components.World;
 
 /* NOTES
  *
@@ -17,43 +18,51 @@ import org.game.components.Player;
  */
 
 public class Game extends JPanel implements KeyListener {
-    public Player player;
+    World world;
     public Game() {
-        player = new Player();
-
+        world = new World();
         addKeyListener(this);
         setFocusable(true);
         requestFocusInWindow();
+        setLayout(new BorderLayout());
+        add(world, BorderLayout.CENTER);
+        setVisible(true);
     }
 
     public void update() {
-
+        world.update();
     }
 
     @Override
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
 
-        player.draw(g);
-
         Toolkit.getDefaultToolkit().sync();
     }
 
     @Override
     public void keyPressed(KeyEvent arg0) {
-        int keyCode = arg0.getKeyCode();
-        player.move(keyCode);
+        try {
+            world.keyEventHandle(arg0);
+        } 
+        catch (Exception e) {
+            // TODO Auto-generated catch block
+        }
 
     }
 
     @Override
     public void keyReleased(KeyEvent arg0) {
-        int keyCode = arg0.getKeyCode();
+        try {
+            world.keyEventHandle(arg0);
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+        }
     }
 
     @Override
     public void keyTyped(KeyEvent arg0) {
-        int keyCode = arg0.getKeyCode();
+        //No Implementation needed
     }
     
 }

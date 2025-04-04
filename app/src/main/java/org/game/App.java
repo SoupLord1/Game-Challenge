@@ -1,9 +1,10 @@
 package org.game;
 
-import javax.swing.*;
-
 import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+import javax.swing.Timer;
 
 
 public class App extends JFrame {
@@ -19,12 +20,9 @@ public class App extends JFrame {
 
         add(game);
 
-        Timer timer = new Timer(5, new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                game.update();
-                game.repaint();
-            }
+        Timer timer = new Timer(10, (ActionEvent e) -> {
+            game.update();
+            game.repaint();
         });
         timer.start();
         setVisible(true);
