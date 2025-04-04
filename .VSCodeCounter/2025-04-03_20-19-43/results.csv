@@ -1,0 +1,21 @@
+"filename", "language", "Batch", "Gradle", "Markdown", "JSON", "Java Properties", "Java", "comment", "blank", "total"
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-17-47/details.md", "Markdown", 0, 0, 19, 0, 0, 0, 0, 6, 25
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-17-47/diff-details.md", "Markdown", 0, 0, 9, 0, 0, 0, 0, 6, 15
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-17-47/diff.md", "Markdown", 0, 0, 12, 0, 0, 0, 0, 7, 19
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-17-47/results.json", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-17-47/results.md", "Markdown", 0, 0, 35, 0, 0, 0, 0, 7, 42
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-19-13/details.md", "Markdown", 0, 0, 23, 0, 0, 0, 0, 6, 29
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-19-13/diff-details.md", "Markdown", 0, 0, 15, 0, 0, 0, 0, 6, 21
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-19-13/diff.md", "Markdown", 0, 0, 24, 0, 0, 0, 0, 7, 31
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-19-13/results.json", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/soup/Documents/Code/Java/Game/.VSCodeCounter/2025-04-03_20-19-13/results.md", "Markdown", 0, 0, 35, 0, 0, 0, 0, 7, 42
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$1.class", "Java", 0, 0, 0, 0, 0, 10, 0, 1, 11
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App.class", "Java", 0, 0, 0, 0, 0, 21, 5, 0, 26
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/Game.class", "Java", 0, 0, 0, 0, 0, 22, 0, 0, 22
+"/home/soup/Documents/Code/Java/Game/app/build.gradle", "Gradle", 0, 22, 0, 0, 0, 0, 13, 9, 44
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/App.java", "Java", 0, 0, 0, 0, 0, 26, 0, 9, 35
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/Game.java", "Java", 0, 0, 0, 0, 0, 30, 3, 14, 47
+"/home/soup/Documents/Code/Java/Game/gradle/wrapper/gradle-wrapper.properties", "Java Properties", 0, 0, 0, 0, 7, 0, 0, 1, 8
+"/home/soup/Documents/Code/Java/Game/gradlew.bat", "Batch", 41, 0, 0, 0, 0, 0, 32, 22, 95
+"/home/soup/Documents/Code/Java/Game/settings.gradle", "Gradle", 0, 5, 0, 0, 0, 0, 7, 3, 15
+"Total", "-", 41, 27, 172, 2, 7, 109, 60, 111, 529

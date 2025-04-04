@@ -1,0 +1,12 @@
+"filename", "language", "Gradle", "Batch", "Java Properties", "Java", "comment", "blank", "total"
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$1.class", "Java", 0, 0, 0, 10, 0, 1, 11
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App.class", "Java", 0, 0, 0, 21, 5, 0, 26
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/Game.class", "Java", 0, 0, 0, 22, 0, 0, 22
+"/home/soup/Documents/Code/Java/Game/app/build.gradle", "Gradle", 22, 0, 0, 0, 13, 9, 44
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/App.java", "Java", 0, 0, 0, 26, 0, 9, 35
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/Game.java", "Java", 0, 0, 0, 30, 3, 14, 47
+"/home/soup/Documents/Code/Java/Game/app/src/test/java/org/example/AppTest.java", "Java", 0, 0, 0, 1, 3, 1, 5
+"/home/soup/Documents/Code/Java/Game/gradle/wrapper/gradle-wrapper.properties", "Java Properties", 0, 0, 7, 0, 0, 1, 8
+"/home/soup/Documents/Code/Java/Game/gradlew.bat", "Batch", 0, 41, 0, 0, 32, 22, 95
+"/home/soup/Documents/Code/Java/Game/settings.gradle", "Gradle", 5, 0, 0, 0, 7, 3, 15
+"Total", "-", 27, 41, 7, 110, 63, 60, 308
