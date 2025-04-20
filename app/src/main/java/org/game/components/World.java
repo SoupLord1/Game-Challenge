@@ -3,7 +3,8 @@ package org.game.components;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-import org.game.components.Tile.TileLayer;
+import org.game.components.player.Player;
+import org.game.components.tile.TileLayer;
 
 import javafx.collections.ObservableList;
 import javafx.scene.image.Image;
