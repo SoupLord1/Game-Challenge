@@ -1,28 +1,31 @@
 package org.game;
 
-import java.io.FileNotFoundException;
 
 import org.game.components.World;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
+import javafx.event.EventHandler;
 import javafx.scene.Scene;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
  
 public class App extends Application {
+
+    World world;
+    
     public static void main(String[] args) {
         launch(args);
     }
     
     public Scene scene(){
-        World world = new World();
+        
         
 
         BorderPane root = new BorderPane();
         root.setPrefSize(1080, 1080);
-        root.setCenter(world);
-
+    
         AnimationTimer timer = new AnimationTimer() {
 
             @Override
@@ -37,9 +40,27 @@ public class App extends Application {
 
         Scene parent = new Scene(root);
 
-        parent.setOnKeyPressed(e -> {
-            world.player.move(e);
-        });
+       parent.addEventHandler(KeyEvent.KEY_PRESSED, new EventHandler<KeyEvent>() {
+
+        @Override
+        public void handle(KeyEvent event) {
+            world.keyPressedHandler(event);
+        }
+       });
+
+       parent.addEventHandler(KeyEvent.KEY_RELEASED, new EventHandler<KeyEvent>() {
+
+        @Override
+        public void handle(KeyEvent event) {
+            world.keyReleasedHandler(event);
+            
+        }
+       });
+
+        world = new World(parent);
+
+        root.getChildren().add(world);
+
 
         return parent;
 

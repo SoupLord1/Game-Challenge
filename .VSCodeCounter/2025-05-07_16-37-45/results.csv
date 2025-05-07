@@ -1,0 +1,30 @@
+"filename", "language", "Gradle", "Batch", "Markdown", "Java Properties", "Java", "comment", "blank", "total"
+"/home/soup/Documents/Code/Java/Game/README.md", "Markdown", 0, 0, 2, 0, 0, 0, 1, 3
+"/home/soup/Documents/Code/Java/Game/app/bin/main/module-info.class", "Java", 0, 0, 0, 0, 4, 0, 0, 4
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$1.class", "Java", 0, 0, 0, 0, 12, 0, 0, 12
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$2.class", "Java", 0, 0, 0, 0, 11, 0, 0, 11
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$3.class", "Java", 0, 0, 0, 0, 11, 0, 0, 11
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App.class", "Java", 0, 0, 0, 0, 25, 0, 0, 25
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/World.class", "Java", 0, 0, 0, 0, 28, 0, 0, 28
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Inventory.class", "Java", 0, 0, 0, 0, 26, 0, 0, 26
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Item.class", "Java", 0, 0, 0, 0, 15, 0, 0, 15
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Slot.class", "Java", 0, 0, 0, 0, 18, 0, 1, 19
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/player/Player.class", "Java", 0, 0, 0, 0, 23, 0, 0, 23
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/Tile.class", "Java", 0, 0, 0, 0, 9, 0, 0, 9
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/TileLayer.class", "Java", 0, 0, 0, 0, 11, 0, 1, 12
+"/home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/ToolType.class", "Java", 0, 0, 0, 0, 15, 0, 0, 15
+"/home/soup/Documents/Code/Java/Game/app/build.gradle", "Gradle", 37, 0, 0, 0, 0, 12, 14, 63
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/module-info.java", "Java", 0, 0, 0, 0, 6, 0, 2, 8
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/App.java", "Java", 0, 0, 0, 0, 48, 0, 28, 76
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/World.java", "Java", 0, 0, 0, 0, 43, 0, 13, 56
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Inventory.java", "Java", 0, 0, 0, 0, 32, 1, 7, 40
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Item.java", "Java", 0, 0, 0, 0, 50, 0, 14, 64
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Slot.java", "Java", 0, 0, 0, 0, 25, 0, 4, 29
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/player/Player.java", "Java", 0, 0, 0, 0, 69, 0, 17, 86
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/Tile.java", "Java", 0, 0, 0, 0, 15, 0, 6, 21
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/TileLayer.java", "Java", 0, 0, 0, 0, 15, 0, 5, 20
+"/home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/ToolType.java", "Java", 0, 0, 0, 0, 6, 0, 2, 8
+"/home/soup/Documents/Code/Java/Game/gradle/wrapper/gradle-wrapper.properties", "Java Properties", 0, 0, 0, 7, 0, 0, 1, 8
+"/home/soup/Documents/Code/Java/Game/gradlew.bat", "Batch", 0, 41, 0, 0, 0, 32, 22, 95
+"/home/soup/Documents/Code/Java/Game/settings.gradle", "Gradle", 5, 0, 0, 0, 0, 7, 3, 15
+"Total", "-", 42, 41, 2, 7, 517, 52, 141, 802

@@ -1,0 +1,84 @@
+Date : 2025-05-07 16:37:45
+Directory : /home/soup/Documents/Code/Java/Game
+Total : 28 files,  609 codes, 52 comments, 141 blanks, all 802 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| Java            |         23 |        517 |          1 |        100 |        618 |
+| Gradle          |          2 |         42 |         19 |         17 |         78 |
+| Batch           |          1 |         41 |         32 |         22 |         95 |
+| Java Properties |          1 |          7 |          0 |          1 |          8 |
+| Markdown        |          1 |          2 |          0 |          1 |          3 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         28 |        609 |         52 |        141 |        802 |
+| . (Files)                                                                                          |          3 |         48 |         39 |         26 |        113 |
+| app                                                                                                |         24 |        554 |         13 |        114 |        681 |
+| app (Files)                                                                                        |          1 |         37 |         12 |         14 |         63 |
+| app/bin                                                                                            |         13 |        208 |          0 |          2 |        210 |
+| app/bin/main                                                                                       |         13 |        208 |          0 |          2 |        210 |
+| app/bin/main (Files)                                                                               |          1 |          4 |          0 |          0 |          4 |
+| app/bin/main/org                                                                                   |         12 |        204 |          0 |          2 |        206 |
+| app/bin/main/org/game                                                                              |         12 |        204 |          0 |          2 |        206 |
+| app/bin/main/org/game (Files)                                                                      |          4 |         59 |          0 |          0 |         59 |
+| app/bin/main/org/game/components                                                                   |          8 |        145 |          0 |          2 |        147 |
+| app/bin/main/org/game/components (Files)                                                           |          1 |         28 |          0 |          0 |         28 |
+| app/bin/main/org/game/components/inventory                                                         |          3 |         59 |          0 |          1 |         60 |
+| app/bin/main/org/game/components/player                                                            |          1 |         23 |          0 |          0 |         23 |
+| app/bin/main/org/game/components/tile                                                              |          3 |         35 |          0 |          1 |         36 |
+| app/src                                                                                            |         10 |        309 |          1 |         98 |        408 |
+| app/src/main                                                                                       |         10 |        309 |          1 |         98 |        408 |
+| app/src/main/java                                                                                  |         10 |        309 |          1 |         98 |        408 |
+| app/src/main/java (Files)                                                                          |          1 |          6 |          0 |          2 |          8 |
+| app/src/main/java/org                                                                              |          9 |        303 |          1 |         96 |        400 |
+| app/src/main/java/org/game                                                                         |          9 |        303 |          1 |         96 |        400 |
+| app/src/main/java/org/game (Files)                                                                 |          1 |         48 |          0 |         28 |         76 |
+| app/src/main/java/org/game/components                                                              |          8 |        255 |          1 |         68 |        324 |
+| app/src/main/java/org/game/components (Files)                                                      |          1 |         43 |          0 |         13 |         56 |
+| app/src/main/java/org/game/components/inventory                                                    |          3 |        107 |          1 |         25 |        133 |
+| app/src/main/java/org/game/components/player                                                       |          1 |         69 |          0 |         17 |         86 |
+| app/src/main/java/org/game/components/tile                                                         |          3 |         36 |          0 |         13 |         49 |
+| gradle                                                                                             |          1 |          7 |          0 |          1 |          8 |
+| gradle/wrapper                                                                                     |          1 |          7 |          0 |          1 |          8 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                           | language        | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| /home/soup/Documents/Code/Java/Game/README.md                                                      | Markdown        |          2 |          0 |          1 |          3 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/module-info.class                                 | Java            |          4 |          0 |          0 |          4 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$1.class                              | Java            |         12 |          0 |          0 |         12 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$2.class                              | Java            |         11 |          0 |          0 |         11 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App$3.class                              | Java            |         11 |          0 |          0 |         11 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/App.class                                | Java            |         25 |          0 |          0 |         25 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/World.class                   | Java            |         28 |          0 |          0 |         28 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Inventory.class     | Java            |         26 |          0 |          0 |         26 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Item.class          | Java            |         15 |          0 |          0 |         15 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/inventory/Slot.class          | Java            |         18 |          0 |          1 |         19 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/player/Player.class           | Java            |         23 |          0 |          0 |         23 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/Tile.class               | Java            |          9 |          0 |          0 |          9 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/TileLayer.class          | Java            |         11 |          0 |          1 |         12 |
+| /home/soup/Documents/Code/Java/Game/app/bin/main/org/game/components/tile/ToolType.class           | Java            |         15 |          0 |          0 |         15 |
+| /home/soup/Documents/Code/Java/Game/app/build.gradle                                               | Gradle          |         37 |         12 |         14 |         63 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/module-info.java                             | Java            |          6 |          0 |          2 |          8 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/App.java                            | Java            |         48 |          0 |         28 |         76 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/World.java               | Java            |         43 |          0 |         13 |         56 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Inventory.java | Java            |         32 |          1 |          7 |         40 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Item.java      | Java            |         50 |          0 |         14 |         64 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/inventory/Slot.java      | Java            |         25 |          0 |          4 |         29 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/player/Player.java       | Java            |         69 |          0 |         17 |         86 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/Tile.java           | Java            |         15 |          0 |          6 |         21 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/TileLayer.java      | Java            |         15 |          0 |          5 |         20 |
+| /home/soup/Documents/Code/Java/Game/app/src/main/java/org/game/components/tile/ToolType.java       | Java            |          6 |          0 |          2 |          8 |
+| /home/soup/Documents/Code/Java/Game/gradle/wrapper/gradle-wrapper.properties                       | Java Properties |          7 |          0 |          1 |          8 |
+| /home/soup/Documents/Code/Java/Game/gradlew.bat                                                    | Batch           |         41 |         32 |         22 |         95 |
+| /home/soup/Documents/Code/Java/Game/settings.gradle                                                | Gradle          |          5 |          7 |          3 |         15 |
+| Total                                                                                              |                 |        609 |         52 |        141 |        802 |
++----------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+

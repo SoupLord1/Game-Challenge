@@ -1,6 +1,0 @@
-"filename", "language", "Java", "comment", "blank", "total"
-"/home/logan/Documents/GitHub/Game-Challenge/app/src/main/java/org/game/components/World.java", "Java", 1, 0, 0, 1
-"/home/logan/Documents/GitHub/Game-Challenge/app/src/main/java/org/game/components/inventory/Inventory.java", "Java", 26, 1, 5, 32
-"/home/logan/Documents/GitHub/Game-Challenge/app/src/main/java/org/game/components/inventory/Item.java", "Java", 42, 0, 11, 53
-"/home/logan/Documents/GitHub/Game-Challenge/app/src/main/java/org/game/components/inventory/Slot.java", "Java", 3, 0, 2, 5
-"Total", "-", 72, 1, 18, 91
